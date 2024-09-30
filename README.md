@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arthur-kt
 - 👀 I’m interested in learning to be a better professional
-- 🌱 I’m currently learning CS50's Introduction to Computer Science
 - 📚 I'm currently doing an economics degree at UFRGS 
 - 📫 How to reach me in email: arthur.k.t@hotmail.com
 
